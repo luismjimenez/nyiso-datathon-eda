@@ -1,4 +1,3 @@
-# README #
 
 # NYISO Datathon Exploratory Data Analysis
 
