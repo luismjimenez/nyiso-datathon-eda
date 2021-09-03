@@ -14,7 +14,7 @@ The goal of this project is to analyze NYISO grid data for insights that can hel
 
 # Dataset used
 
-The dataset used is found at this github [link](https://raw.githubusercontent.com/Jameshskelton/datathon/main/Beginner_Track_dataset/OASIS_Real_Time_Dispatch_Actual_Load.csv) and it contains real time load data of the NYISO energy grid.
+The dataset used is available for download from the following [link](https://raw.githubusercontent.com/Jameshskelton/datathon/main/Beginner_Track_dataset/OASIS_Real_Time_Dispatch_Actual_Load.csv) and it contains real time load data of the NYISO energy grid for the month of June 2021.
 
 # Tools used
 
